@@ -1,4 +1,12 @@
+<!-- 
+div style="text-align: center;">
+  <img src="./Header.png" alt="Your header image" style="width:100%;"/>
+</div>
 
+<div style="text-align: center;">
+  <img src="./Header.png" alt="Your header image" style="width:100%; height:400px;"/>
+</div>
+-->
 ## Introducing Parthiv 🕺
 
 <!--
