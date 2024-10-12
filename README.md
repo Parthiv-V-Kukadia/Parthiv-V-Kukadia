@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <a href="https://drive.google.com/file/d/18klxfiX1CSB2vlVTt3ubyNI6Tesr31Si/view?usp=sharing">📄 You can check out my CV here. 📄</a>
 </p>
 
-<br> <!-- Add a gap here --> <br> <!-- Add a gap here -->
+<br> <!-- Add a gap here -->
 
 <h3>🛠 Tech Stack 🛠</h3>
 <hr>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     <img src="https://go-skill-icons.vercel.app/api/icons?i=word,outlook,powerpoint,onenote,excel,sharepoint,teams&perline=4" />
   </a>
 </div>
-<br> <!-- Add a gap here --> <br> <!-- Add a gap here -->
+<br> <!-- Add a gap here -->
 
 <h3>🤖 Robotics 🦾</h3>
 <hr>
@@ -84,16 +84,16 @@ Here are some ideas to get you started:
 | 5. Reinforcement Learning (RL)          | 5. Extended Kalman Filter (EKF)  |                                          |                                   |                |
 | 6. Deep Q-Networks  (DQN)                |                                  |                                          |                                   |                |
 
-<br> <!-- Add a gap here --><br> <!-- Add a gap here -->
+<br> <!-- Add a gap here -->
 <h3>⚙️ My GitHub Analytics ⚙️</h3>
 <hr>
 <h4>📊 My GitHub Statistics</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=Parthiv-V-Kukadia&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 <h4>💻 My Programming Languages</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-V-Kukadia&layout=compact&exclude_repo=Jupyter%20Notebook&include_all_commits=true&count_private=true&langs_count=6&theme=radical&custom_title=My%20Programming%20Languages&hide_title=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-V-Kukadia&layout=compact&exclude_repo=Jupyter%20Notebook&include_all_commits=true&count_private=true&theme=radical&custom_title=My%20Programming%20Languages&hide_title=false" />
 
-<br> <!-- Add a gap here --><br> <!-- Add a gap here -->
+<br> <!-- Add a gap here -->
 <h3>🤝🏻  Connect with Me  🤝🏻</h3>
 <div align="center">
   <a href="mailto:parthivkukadia@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" width="30" /></a>
