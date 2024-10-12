@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 - ⚙️ Enjoy working on projects that push boundaries in both robotics and quantitative analysis.
 - 🌍 Adaptable and resilient, having grown up in fast-paced cities like Bangkok, Hong Kong, Mumbai, Chicago, NYC, and Singapore.
 - 🎿 Adrenaline junkie, passionate about skiing, scuba diving, bouldering, and adventure sports.
-- 
 
-🚀 Currently exploring exciting opportunities in UAV technologies, autonomous navigation, and quantitative roles! 📊✈️
+🚀 Currently exploring exciting opportunities in UAV technologies, autonomous navigation, and quantitative roles! 📊✈️  
 [📄 You can check out my CV here. 📄](https://drive.google.com/file/d/18klxfiX1CSB2vlVTt3ubyNI6Tesr31Si/view?usp=sharing) 
 
 <br> <!-- Add a gap here --> <br> <!-- Add a gap here -->
