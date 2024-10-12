@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h4 style="display: inline; margin-right: 20px;"> 💻 Languages</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,py,matlab,r,powershell,anaconda,latex&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,matlab,r,git,powershell,anaconda,latex&perline=4" />
   </a>
 </div>
 
