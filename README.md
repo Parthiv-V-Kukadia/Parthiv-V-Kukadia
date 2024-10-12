@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 - 🎿 Adrenaline junkie, passionate about skiing, scuba diving, bouldering, and adventure sports.
 
 🚀 Currently exploring exciting opportunities in UAV technologies, autonomous navigation, and quantitative roles! 📊✈️  
-[📄 You can check out my CV here. 📄](https://drive.google.com/file/d/18klxfiX1CSB2vlVTt3ubyNI6Tesr31Si/view?usp=sharing) 
+<p align="center">
+  <a href="https://drive.google.com/file/d/18klxfiX1CSB2vlVTt3ubyNI6Tesr31Si/view?usp=sharing">📄 You can check out my CV here. 📄</a>
+</p>
 
 <br> <!-- Add a gap here --> <br> <!-- Add a gap here -->
 
