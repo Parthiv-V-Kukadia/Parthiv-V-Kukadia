@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <h3>⚙️ My GitHub Analytics ⚙️</h3>
 <hr>
 <h4>📊 My GitHub Statistics</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=Parthiv-V-Kukadia&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Parthiv-V-Kukadia&show_icons=true&hide_border=true&count_private=true&theme=radical&v=1" />
 
 <h4>💻 My Programming Languages</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-V-Kukadia&layout=compact&exclude_repo=Jupyter%20Notebook&include_all_commits=true&count_private=true&theme=radical&custom_title=My%20Programming%20Languages&hide_title=false" />
