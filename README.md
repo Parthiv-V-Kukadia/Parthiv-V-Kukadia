@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 <br> <!-- Add a gap here -->
 <h3>🤝🏻  Connect with Me  🤝🏻</h3>
 <div align="center">
-  <a href="mailto:parthivkukadia@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" width="30" /></a>
-  <a href="https://www.linkedin.com/in/parthiv-k/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" width="30" /></a>
-  <a href="https://www.facebook.com/parthivkukadia/"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="Facebook" width="30" /></a>
-  <a href="https://www.instagram.com/parthivk/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram" width="30" /></a>
-  <a href="https://github.com/Parthiv-V-Kukadia"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" width="30" /></a>
+  <a href="mailto:parthivkukadia@gmail.com"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail" width="40" /></a>
+  <a href="https://www.linkedin.com/in/parthiv-k/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
+  <a href="https://www.facebook.com/parthivkukadia/"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" alt="Facebook" width="40" /></a>
+  <a href="https://www.instagram.com/parthivk/"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="Instagram" width="40" /></a>
+  <a href="https://github.com/Parthiv-V-Kukadia"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" width="40" /></a>
 </div>
 
 
