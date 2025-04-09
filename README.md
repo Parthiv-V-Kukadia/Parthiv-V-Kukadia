@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 -->
 
 <h4>💻 My Programming Languages</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-V-Kukadia&layout=compact&exclude_repo=Jupyter%20Notebook&include_all_commits=true&count_private=true&theme=radical&custom_title=My%20Programming%20Languages&hide_title=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parthiv-V-Kukadia&layout=compact&exclude_repo=Jupyter%20Notebook&include_all_commits=true&count_private=true&theme=radical&custom_title=My%20Programming%20Languages&hide_title=false&t=1712663227" />
 
 <br> <!-- Add a gap here -->
 <h3>🤝🏻  Connect with Me  🤝🏻</h3>
