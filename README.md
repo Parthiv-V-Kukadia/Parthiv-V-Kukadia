@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🚀 Currently exploring exciting opportunities in UAV technologies, autonomous navigation, and quantitative roles! 📊✈️  
 <p align="center">
-  <a href="https://drive.google.com/file/d/1DnvwQTVivIp_CwWuekHWqho-jHke8Q8w/view?usp=sharing">📄 You can check out my CV here. 📄</a>
+  <a href="https://drive.google.com/file/d/1HzY66XcfNGY4rUMF2W7Xqc4Umv-vsIWT/view?usp=sharing">📄 You can check out my CV here. 📄</a>
 </p>
 
 <br> <!-- Add a gap here -->
