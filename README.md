@@ -75,14 +75,15 @@ Here are some ideas to get you started:
 <hr>
 <h4>Skills Overview</h4>
 
-| Deep Learning for Computer Vision       | Control Systems                   | Localization and Mapping                | Mechanics and Robot Motion Analysis | Hardware       |
-|:----------------------------------------:|:----------------------------------:|:----------------------------------------:|:-----------------------------------:|:--------------:|
-| 1. Self-Organizing Maps (SOM)           | 1. Control Theory                 | 1. Simultaneous Localization and Mapping (SLAM) | 1. Robot Kinematics                | 1. Raspberry Pi  |
-| 2. Multilayer Perceptron (MLP)         | 2. Motion Planning                | 2. Monte Carlo Localization              | 2. Robot Dynamics                   |                |
-| 3. Convolutional Neural Networks (CNN)  | 3. Linear Quadratic Regulator (LQR) |                                          |                                   |                |
-| 4. Support Vector Machines (SVM)        | 4. Kalman Filter (KF)            |                                          |                                   |                |
-| 5. Reinforcement Learning (RL)          | 5. Extended Kalman Filter (EKF)  |                                          |                                   |                |
-| 6. Deep Q-Networks  (DQN)                |                                  |                                          |                                   |                |
+| Deep Learning for Computer Vision       | Feature Detection & Matching     | Localization and Mapping                        | Control Theory                          | Mechanics and Robot Motion Analysis | Hardware          |
+|:--------------------------------------:|:--------------------------------:|:------------------------------------------------:|:----------------------------------------:|:-----------------------------------:|:-----------------:|
+| 1. Self-Organizing Maps (SOM)         | 1. SIFT                          | 1. Simultaneous Localization and Mapping (SLAM) | 1. PI, PID Controllers                   | 1. Robot Kinematics                | 1. Arduino         |
+| 2. Multilayer Perceptron (MLP)        | 2. SURF                          | 2. Monte Carlo Localization                    | 2. Lead, Lag, Lead-Lag Compensator       | 2. Robot Dynamics                   | 2. Raspberry Pi    |
+| 3. Convolutional Neural Networks (CNN)| 3. Stereo Matching               | 3. Extended Kalman Filter, Kalman Filter        | 3. Z-Transform, Inverse Z, Modified Z    |                                   |                   |
+| 4. Support Vector Machines (SVM)      |                                  | 4. Linear Quadratic Regulators                  | 4. State-Space Equations                 |                                   |                   |
+| 5. Reinforcement Learning (RL)        |                                  | 5. A* Path Planning                             |                                          |                                   |                   |
+| 6. Deep Q-Networks (DQN)              |                                  | 6. Dijkstra                                     |                                          |                                   |                   |
+
 
 <br> <!-- Add a gap here -->
 <!--
